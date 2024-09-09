@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danyellepalmore
-- 👀 I’m interested in databases
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Linux and Cryptography
+- 🌱 I’m currently learning C++, HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
