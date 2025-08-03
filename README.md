@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in Linux and Cryptography<br>🌱 I’m currently experimenting with Python and C++</p>
+<p align="left">👀 I’m interested in Data Science & IT Systems<br>🌱 I’m currently experimenting with Image Recognition and .NET</p>
 
 ###
 
